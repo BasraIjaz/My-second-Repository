@@ -1,0 +1,55 @@
+	           		 JAVA Script
+
+Lecture :01
+Date :23-05-2022
+
+	Remamber for next class---->>
+
+	What is the diffrence B/T Let And Var?
+	what is object? And 
+
+
+
+		<java hum kaha pe laikty hai?>
+------->java ko hum script k tag mai laikty hai .
+
+--->
+	let x , y , z
+	x=10;
+	y=20;
+	2=x+y;
+
+	<java mai hamry pas 2 qism k value huti hai>
+1)fix value <ye value change nahi hu skta
+2)variable value <changable>
+
+	<hum 3 key word se variable ko declear kr skty hai >
+1)var
+2)Let
+3)const
+
+
+		<What is Expration?>
+---->combination of  oprants and oprators.
+			
+		<case and sensitive Language>
+<for exmple>
+		Last name 		last Name
+
+if we have three varaible>>>>
+	
+const price1=10;
+const price2=20;
+let total =price1+price2;
+
+(price1) or (Price2) ki value change nahi hu skti hai or (Total) 
+ki value change hu skti hai 
+
+		
+
+			<What is function?>
+function aik block code huta hai jo kesi b kam k lai bar bar call huta hai.
+	
+			
+			<What is object?>
+	
